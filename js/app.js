@@ -4,7 +4,7 @@ const input = document.querySelector(".input")
 const output = document.querySelector(".output")
 const clear = document.querySelector(".del")
 const equals = document.querySelector(".equal")
-const clear1 = document.querySelector(".clear")
+const clears = document.querySelector(".clear")
 
 let calc=[]
 let calculation ;
